@@ -3,11 +3,11 @@ import os
 # Text to Binary
 # Convert your text into binary format.
 
-version = "ttb-1.0-se"
+version = "be-1.0-se"
 
 print("""
-▀█▀ █▀▀ ▀▄▀ ▀█▀   ▀█▀ █▀█   █▄▄ █ █▄░█ ▄▀█ █▀█ █▄█
-░█░ ██▄ █░█ ░█░   ░█░ █▄█   █▄█ █ █░▀█ █▀█ █▀▄ ░█░
+█▄▄ █ █▄░█ ▄▀█ █▀█ █▄█   █▀▀ █▄█ █▀▀
+█▄█ █ █░▀█ █▀█ █▀▄ ░█░   ██▄ ░█░ ██▄
 """)
 print("---------------------")
 print(" Version:", version   )
