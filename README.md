@@ -1,5 +1,5 @@
-# Text-to-Binary
-###### Convert your text into binary using Python. Text to Binary converts your text into binary format. Text to Binary uses Python language.
+# Binary Eye
+###### Convert your text into binary using Python. Binary Eye converts your text into binary format. Binary Eye uses Python & shell language.
 
 # Requirements
 ###### Python3
