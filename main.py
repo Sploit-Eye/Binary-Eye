@@ -8,9 +8,9 @@ print("""
 █░█░█ █▀▀ █░░ █▀▀ █▀█ █▀▄▀█ █▀▀
 ▀▄▀▄▀ ██▄ █▄▄ █▄▄ █▄█ █░▀░█ ██▄
 
-print("-", version)
-
 """)
+
+print("-", version)
 
 text = input("Type your text: ") # Type your text
 print("")
