@@ -1,10 +1,14 @@
 # Text to Binary
 # Convert your text into binary format.
 
+version = "ttb-1.0-se"
+
 print("""
 
 █░█░█ █▀▀ █░░ █▀▀ █▀█ █▀▄▀█ █▀▀
 ▀▄▀▄▀ ██▄ █▄▄ █▄▄ █▄█ █░▀░█ ██▄
+
+print("-", version)
 
 """)
 
