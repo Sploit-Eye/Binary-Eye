@@ -19,10 +19,9 @@ clear
 echo "- Required tools are installed."
 sleep 1.9
 clear
-echo "- Running Text-to-Binary..."
+echo "- Running Binary Eye..."
 sleep 2.1
 clear
-echo "- Launched"
 sleep 2.3
 python3 main.py # Runs python script [text-to-binary]
 exit 1
