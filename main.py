@@ -3,7 +3,7 @@ import os
 # Text to Binary
 # Convert your text into binary format.
 
-version = "be-1.0-se"
+version = "be-1.1-se"
 
 print("""
 █▄▄ █ █▄░█ ▄▀█ █▀█ █▄█   █▀▀ █▄█ █▀▀
@@ -14,7 +14,7 @@ print(" Version:", version   )
 print("---------------------")
 print("")
 
-rtools = input("Python is Installed [Yes/No] : ")
+rtools = input("Is Python Installed [Yes/No] : ")
 print("")
 
 if (rtools == "Yes"):
