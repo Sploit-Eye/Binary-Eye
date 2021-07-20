@@ -3,7 +3,7 @@ import os
 # Text to Binary
 # Convert your text into binary format.
 
-version = "be-1.1-se"
+version = "be-1.0-se"
 
 print("""
 █▄▄ █ █▄░█ ▄▀█ █▀█ █▄█   █▀▀ █▄█ █▀▀
