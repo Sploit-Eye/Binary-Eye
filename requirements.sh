@@ -23,5 +23,5 @@ echo "- Running Binary Eye..."
 sleep 2.1
 clear
 sleep 2.3
-python3 main.py # Runs python script [text-to-binary]
+python3 main.py # Runs python script [Binary-Eye]
 exit 1
