@@ -14,7 +14,7 @@ print(" Version:", version   )
 print("---------------------")
 print("")
 
-rtools = input("Is Python Installed [Yes/No] : ")
+rtools = input("Is Python3 Installed [Yes/No] : ")
 print("")
 
 if (rtools == "Yes"):
