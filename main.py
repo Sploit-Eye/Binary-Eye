@@ -3,7 +3,7 @@ import os
 # Text to Binary
 # Convert your text into binary format.
 
-version = "be-1.0-se"
+version = "be-1.1-se"
 
 def greencolor(skk): print("\033[92m {}\033[00m" .format(skk))
 def redcolor(skk): print("\033[91m {}\033[00m" .format(skk))
