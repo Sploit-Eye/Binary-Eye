@@ -5,8 +5,7 @@
 ###### Python3
 
 # How to use
-###### Script is now easier to use, i added menu selecting. Just extract the zip file, go to extracted folder, open terminal, type <br>
-###### python3 main.py, the script will start running.
+###### Script is now easier to use, i added menu selecting. Just extract the zip file, go to extracted folder, open terminal, type <br> python3 main.py, the script will start running.
 
 # Notice
 ###### You can modify files from this repository for free, but please don't edit or delete original files from this repository.
