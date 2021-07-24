@@ -4,6 +4,7 @@
 - be-1.0-se
 - be-1.1-se
 - be-1.2-se
+- be-1.3-se
 
-- Last updated [23/7/2021]
+- Last updated [24/7/2021]
 - Sploit Eye
