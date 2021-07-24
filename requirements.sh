@@ -6,7 +6,7 @@ tput setaf 2; echo """
 █▀█ █▀▀ █▀█ █░█ █ █▀█ █▀▀ █▀▄▀█ █▀▀ █▄░█ ▀█▀ █▀
 █▀▄ ██▄ ▀▀█ █▄█ █ █▀▄ ██▄ █░▀░█ ██▄ █░▀█ ░█░ ▄█
 """
-echo "Version: be-1.2-se"
+echo "be-1.3-se"
 tput sgr0;
 echo ""
 sleep 1.5
