@@ -3,7 +3,7 @@ import os
 # Text to Binary
 # Convert your text into binary format.
 
-version = "be-1.3-se"
+version = "be-1.4-se"
 
 def greencolor(skk): print("\033[92m {}\033[00m" .format(skk))
 def redcolor(skk): print("\033[91m {}\033[00m" .format(skk))
@@ -18,7 +18,7 @@ print(version)
 print("")
 print("[0] Install required tools")
 print("[1] Start Binary Eye")
-print("[2] Source Code")
+print("[2] Subscribe on YouTube")
 print("[3] About")
 print("[4] Exit")
 print("")
@@ -60,11 +60,11 @@ elif(uanswer == "1"):
     else:
         redcolor("Please type the given numbers.")
 elif(uanswer == "2"):
-    os.system("open https://github.com/Sploit-Eye/binary-eye")
+    os.system("open https://www.youtube.com/channel/UCepn9DYAldPfXPARemNAuCQ")
 elif(uanswer == "3"):
     greencolor("This tool was created by Sploit Eye.")
     greencolor("Tool is open-source, get source code")
-    greencolor("on GitHub.")
+    greencolor("on GitHub. Modify it & improve it.")
     print("")
     greencolor("Thanks for using Binary Eye.")
 elif(uanswer == "4"):
