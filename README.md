@@ -3,6 +3,7 @@
 
 # Requirements
 ###### Python3
+###### Tput (ncurses-utils)
 
 # How to use
 ###### Script is now easier to use, i added menu selecting. Just extract the zip file, go to extracted folder, open terminal, type <br> python3 main.py, the script will start running.
