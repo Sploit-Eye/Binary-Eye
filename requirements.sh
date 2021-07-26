@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Run this file first to avoid errors in main.py
 # This script will install all required tools for main.py
 clear
